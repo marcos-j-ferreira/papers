@@ -63,6 +63,7 @@ Understanding gradients is essential for going beyond “using models” and act
 
 ## Connect
 
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-1f1f1f?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/marcos-j-ferreira)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marcos-junior-lemes/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/marcosLLMs_)
 [![Wiki Marcos](https://img.shields.io/badge/Wiki-Marcos-informational?style=flat-square)](https://marcoswiki.vercel.app/)
